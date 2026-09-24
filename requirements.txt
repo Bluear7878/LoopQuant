@@ -1,0 +1,10 @@
+torch
+transformers==4.55.0
+accelerate
+datasets
+safetensors
+sentencepiece
+numpy
+pyyaml
+tqdm
+lm-eval
